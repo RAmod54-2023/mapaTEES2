@@ -4,7 +4,8 @@ Atividade MAPA Engenharia de Softwares
 # 1-Criar o perfil
 Uma imagem que demonstre que você criou uma conta no GitHub, onde o usuário é o seu RA de aluno.
 
-![Screenshot from 2023-12-04 14-49-34](https://github.com/RAmod54-2023/mapaTEES2/assets/152905999/f49c5351-4ea3-4cec-822e-8a6a52a46e63)
+![PerfilGitRA16332165](https://github.com/RAmod54-2023/mapaTEES2/assets/152905999/a168aa97-1534-4973-98c4-6177c05496f8)
+
 
 # 2-Criar uma branch
 Um breve texto (máximo 15 linhas) em que você explica a sequência de atividades esquematizada na imagem do slide 14 em "ApoioMAPA".
