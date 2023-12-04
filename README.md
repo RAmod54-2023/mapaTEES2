@@ -26,9 +26,13 @@ Foi feito um "merge" (mesclar) as alterações da "feature" com a "main" atualiz
 
 # 3- A sequência de imagens que demonstre que você executou os passos indicados no Tutorial GitHub (https://docs.github.com/pt/get-started/quickstart/hello-world).
 3.1-Criar um Ropositório de código aberto de nome "hello-word";
+
 3.2-Criar e Gerenciar um Branch;
+
 3.3-Criar um arquivo, fazer alterações e commit das alterações;
+
 3.4-Abrir um Pull Request;
+
 3.5-Fazer um Merge (Mesclar) seu Pull Request;
 
 
