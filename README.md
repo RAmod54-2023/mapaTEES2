@@ -9,6 +9,9 @@ Uma imagem que demonstre que você criou uma conta no GitHub, onde o usuário é
 
 # 2-Criar uma branch
 Um breve texto (máximo 15 linhas) em que você explica a sequência de atividades esquematizada na imagem do slide 14 em "ApoioMAPA".
+![CriarBranchFeature](https://github.com/RAmod54-2023/mapaTEES2/assets/152905999/b6435f99-ab52-4b7b-a22c-ffc9e87efed0)
+
+
 ![BranchFeature](https://github.com/RAmod54-2023/mapaTEES2/assets/152905999/417bb771-17df-4351-9399-08e5a2eb2d9b)
 
 Fui criada uma branch de nome "feature", que uma cópia exata da versão original "main", a "feature" receberá as mudanças feitas pelos vários colaboradores da equipe;
